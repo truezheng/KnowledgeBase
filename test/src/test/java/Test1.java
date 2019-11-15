@@ -7,7 +7,7 @@ import java.io.*;
  */
 
 
-public class test1 {
+public class Test1 {
     public static void main(String[] args) throws IOException {
         int[][] chessArray = new int[11][11];//棋盘二维数组
         chessArray[1][2] = 1;
